@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom';
 import { App } from './componentes/App';
 
 
-// Framework Tailwind
-import './index.css';
 
 
 ReactDOM.render(
